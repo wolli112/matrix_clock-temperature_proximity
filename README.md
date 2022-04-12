@@ -44,3 +44,7 @@ Module ds18x20 from MicroPython
 The display is mounted on the front of the slot, the ESP on the back of the slot.
 The slot with the display must be installed first, then the SR04 can be installed in the upper part.
 The DS18B20 is installed in such a way that it looks out of the back of the case so that it can measure the room temperature.
+
+## Instructions:
+
+You can load the main.py directly onto your ESP. The wlan.py must also be loaded onto the ESP. The data of your WLAN must still be entered in the wlan.py .
