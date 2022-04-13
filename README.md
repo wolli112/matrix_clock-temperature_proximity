@@ -3,6 +3,8 @@
 # MicroPython - matrix clock which shows the time and temperature when approaching
 My son gave me the idea for this project. He wanted a clock that he could put in his children's room without disturbing him with the light. The idea was born that the display only goes on when you approach the clock or approach it with your hand. The clock should show the time and the room temperature.
 
+![ESP8266](https://user-images.githubusercontent.com/103441220/163267061-917eaa48-3666-42e4-8d0d-f1f5da3cb266.svg)
+
 ## Items:
 NodeMCU V3 Module ESP8266 12F with MicroPython from http://micropython.org
 
@@ -10,7 +12,7 @@ MAX7219 4in1 Dot Matrix Display
 
 HC-SR04 Ultrasonic Sensor
 
-DS18B20 Sensor
+DS18B20 Sensor Breakout Modul
 
 StepDown Converter with 3,3V output
 
