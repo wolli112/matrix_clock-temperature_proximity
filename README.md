@@ -5,6 +5,8 @@ My son gave me the idea for this project. He wanted a clock that he could put in
 
 ![ESP8266](https://user-images.githubusercontent.com/103441220/163267061-917eaa48-3666-42e4-8d0d-f1f5da3cb266.svg)
 
+![IMG_4749](https://user-images.githubusercontent.com/103441220/163554693-3afe04eb-39d5-40c1-be71-572a3b8f5ae6.gif)
+
 ## Items:
 NodeMCU V3 Module ESP8266 12F with MicroPython from http://micropython.org
 
@@ -46,6 +48,10 @@ Module ds18x20 from MicroPython
 The display is mounted on the front of the slot, the ESP on the back of the slot.
 The slot with the display must be installed first, then the SR04 can be installed in the upper part.
 The DS18B20 is installed in such a way that it looks out of the back of the case so that it can measure the room temperature.
+
+![IMG_8691](https://user-images.githubusercontent.com/103441220/163554016-c8eed7f4-4fb4-4129-b5b4-5226ad99e38f.JPG)
+![IMG_8692](https://user-images.githubusercontent.com/103441220/163554055-40b1870f-6681-447b-bac3-fa7344a66816.JPG)
+
 
 ## Instructions:
 
