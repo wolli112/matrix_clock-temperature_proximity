@@ -117,6 +117,7 @@ try:
 
 except OSError as e:
     print("Network connection is not possible")
+    machine.reset()
 
 # Mainprogramm
 display.fill(0)  # Display clean
